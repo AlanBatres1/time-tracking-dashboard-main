@@ -1,0 +1,22 @@
+@font-face {
+    font-family: Rubik-Regular;
+    src: url(/design/Rubik-Regular.ttf);
+}
+
+@font-face {
+    font-family: Rubik-Light;
+    src: url(/design/Rubik-Light.ttf);
+}
+
+@font-face {
+    font-family: Rubik-Medium;
+    src: url(/design/Rubik-Medium.ttf);
+}
+
+
+
+body{
+    background-color:hsl(226, 43%, 10%) ;
+    font-family: Rubik-Regular;
+    color: white;
+}
