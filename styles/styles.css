@@ -201,6 +201,12 @@ h2 {
   background-color: hsl(43, 84%, 65%);
 }
 
+.timecard-bottom:hover{
+    background-color: #33397A;
+}
+.btn:hover{
+    color: white;
+}
 @media screen and (min-width: 680px) {
   .container {
     flex-direction: row;
@@ -228,8 +234,24 @@ h2 {
   }
 }
 
-@media screen and (min-width: 1024px) {
+@media screen and (min-width: 950px) {
   .container-timecards {
-    grid-template-columns: repeat(3, 1fr);
+    grid-template-columns: repeat(3, 1fr);  
+  }
+
+  .current-time{
+    font-size: 3rem;
+  }
+
+  .card-bottom{
+    flex-direction: column;
+    align-items: start;
+  }
+
+  .timecard-amt{
+    flex-direction: column;
+    width: 225px;
+    align-items: start;
+    gap: .5rem;
   }
 }
