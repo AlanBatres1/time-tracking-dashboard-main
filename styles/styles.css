@@ -207,6 +207,8 @@ h2 {
 .btn:hover{
     color: white;
 }
+
+/* Responsiveness */
 @media screen and (min-width: 680px) {
   .container {
     flex-direction: row;
@@ -234,6 +236,14 @@ h2 {
   }
 }
 
+.clicked{
+    color: white;
+    background: none;
+}
+.notClicked{
+    color: hsl(236, 100%, 87%);
+}
+
 @media screen and (min-width: 950px) {
   .container-timecards {
     grid-template-columns: repeat(3, 1fr);  
@@ -255,3 +265,4 @@ h2 {
     gap: .5rem;
   }
 }
+/* Responsiveness End */
