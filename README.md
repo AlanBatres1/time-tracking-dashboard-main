@@ -3,7 +3,8 @@ Alan Batres
 Time Tracker
 Description: I created a dashboard resembling the design that was already created as much as possible using HTML and CSS. I then used JavaScript to add the data to make it function
 
-Peer Review:
+Peer Review: Juan Heredia
+"works great and looks pretty similar to the figma, the only real feedback I have is that the cards are supposed to stop hovering when you hover over the ellipses. (look into the "has()" pseudo class)"
 
 
 # Frontend Mentor - Time tracking dashboard
