@@ -1,3 +1,11 @@
+Alan Batres
+12/8/24
+Time Tracker
+Description: I created a dashboard resembling the design that was already created as much as possible using HTML and CSS. I then used JavaScript to add the data to make it function
+
+Peer Review:
+
+
 # Frontend Mentor - Time tracking dashboard
 
 ![Design preview for the Time tracking dashboard coding challenge](./design/desktop-preview.jpg)
